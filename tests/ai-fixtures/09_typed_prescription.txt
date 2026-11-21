@@ -1,0 +1,21 @@
+CLINIC: Metro Care Outpatient Center, Pune
+DOCTOR: Dr. Sneha Deshpande, MD (Medicine)
+DATE: 18 Nov 2026
+PATIENT: Lakshmi Narayanan
+AGE/GENDER: 64 Years / Male
+DIAGNOSIS: Essential Hypertension, Type 2 Diabetes Mellitus
+ALLERGIES: Penicillin
+EXISTING MEDICATIONS: Ecosprin 75mg OD
+
+Rx:
+1. Tab. Amlodipine 5mg (Amlong 5) — 1 tablet, 1-0-0 (Once daily morning), After breakfast, for 30 days
+2. Tab. Metformin 500mg (Glycomet 500) — 1 tablet, 1-0-1 (Twice daily), After food, for 30 days
+3. Cap. Vitamin D3 60000 IU — 1 capsule once weekly on Sundays after lunch for 8 weeks
+
+INVESTIGATIONS:
+- HbA1c (before next visit)
+- Serum Creatinine & eGFR
+
+FOLLOW-UP:
+Review on 18 Dec 2026 with blood pressure log and lab reports.
+PRECAUTIONS: Monitor blood pressure twice weekly; do not skip morning BP medicine.

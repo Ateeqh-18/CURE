@@ -1,0 +1,15 @@
+City Multispecialty Hospital, Pune
+Dr. Meera Deshmukh, MD
+Date: 2026-11-14
+Patient Name: Sandeep Kulkarni
+Age: 56 / Male
+Diagnosis: Type 2 Diabetes Mellitus, Essential Hypertension, Acute Bacterial Bronchitis
+
+Rx:
+1. Tab. Metformin 500 mg - 1 tablet 1-0-1 after food for 30 days
+2. Tab. Metoprolol 25 mg - 1 tablet 1-0-0 after food for 30 days
+3. Tab. Glimepiride 2 mg - 1 tablet 1-0-0 before food for 30 days
+4. Tab. Atorvastatin 20 mg - 1 tablet 0-0-1 at bedtime for 30 days
+5. Tab. Azithromycin 500 mg - 1 tablet 1-0-0 before food for 5 days
+
+Follow-up: 2026-11-28

@@ -1,0 +1,24 @@
+Apollo Specialty Hospital, Hyderabad
+HOSPITAL DISCHARGE SUMMARY - PAGE 1
+Patient Name: Kavitha Reddy
+Age: 61 / Female
+UHID: ASH-HYD-2026-77310
+Date: 2026-11-12
+Doctor: Dr. S. Venkatesh, DM (Cardiology)
+Diagnosis: Coronary Artery Disease, Essential Hypertension
+Allergies: Sulfa drugs
+
+DISCHARGE MEDICATIONS (SCANNED PAGE 2)
+Rx:
+1. Tab. Atorvastatin 20 mg - 1 tablet 0-0-1 at bedtime for 30 days
+2. Tab. Aspirin 75 mg (Ecosprin) - 1 tablet 1-0-0 after food for 30 days
+3. Tab. Metoprolol 25 mg - 1 tablet 1-0-1 after food for 30 days
+4. Tab. Pantoprazole 40 mg - 1 tablet 1-0-0 empty stomach for 14 days
+
+INVESTIGATIONS AND FOLLOW-UP - PAGE 3
+Investigations:
+1. Fasting Lipid Profile - 12 hours fasting
+2. Serum Creatinine and Electrolytes
+3. Resting 12-Lead ECG
+Follow-up: 2026-12-05 with Cardiology OPD Dr. S. Venkatesh.
+Advice: Low salt diet, daily 20 minute walk.

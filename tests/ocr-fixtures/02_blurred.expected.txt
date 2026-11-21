@@ -1,0 +1,15 @@
+St. Martha Healthcare Clinic, Bengaluru
+Dr. Rajesh Menon, MD (Internal Medicine)
+Date: 2026-11-10
+Patient Name: Arvind Joshi
+Age: 49 / Male
+UHID: SMH-2026-11402
+Diagnosis: Type 2 Diabetes Mellitus, Essential Hypertension
+Allergies: None
+
+Rx:
+1. Tab. Metformin 500 mg - 1 tablet 1-0-1 after food for 30 days
+2. Tab. Telmisartan 40 mg - 1 tablet 1-0-0 after food for 30 days
+3. Tab. Pantoprazole 40 mg - 1 tablet 1-0-0 empty stomach for 14 days
+
+Follow-up: 2026-12-10 with Fasting Blood Sugar report.

@@ -1,0 +1,123 @@
+[
+  {
+    "id": "case-01",
+    "name": "Clear printed prescription",
+    "file": "01_clear_printed.png",
+    "kind": "image",
+    "expectedMedicines": [
+      "Metformin",
+      "Telmisartan"
+    ],
+    "expectedAllergyStatus": "none_documented"
+  },
+  {
+    "id": "case-02",
+    "name": "Handwritten prescription (readable)",
+    "file": "02_handwritten_readable.png",
+    "kind": "image",
+    "expectedMedicines": [
+      "Azithromycin",
+      "Paracetamol",
+      "Pantoprazole"
+    ],
+    "expectedAllergies": [
+      "Penicillin"
+    ]
+  },
+  {
+    "id": "case-03",
+    "name": "Handwritten prescription (ambiguous medicine)",
+    "file": "03_handwritten_ambiguous.png",
+    "kind": "image",
+    "expectedMedicines": [
+      "Cetirizine",
+      "Paracetamol"
+    ],
+    "expectUncertain": true
+  },
+  {
+    "id": "case-04",
+    "name": "Multi-medication prescription (5 meds)",
+    "file": "04_multi_medication.png",
+    "kind": "image",
+    "expectedMedicines": [
+      "Atorvastatin",
+      "Aspirin",
+      "Ibuprofen",
+      "Paracetamol",
+      "Pantoprazole"
+    ],
+    "expectDuplicateParacetamol": true
+  },
+  {
+    "id": "case-05",
+    "name": "Blurry prescription",
+    "file": "05_blurry_prescription.png",
+    "kind": "image",
+    "expectedMedicines": [
+      "Levothyroxine",
+      "Calcium"
+    ]
+  },
+  {
+    "id": "case-06",
+    "name": "Rotated 90-degree prescription",
+    "file": "06_rotated_90deg.png",
+    "kind": "image",
+    "expectedMedicines": [
+      "Metformin",
+      "Telmisartan"
+    ]
+  },
+  {
+    "id": "case-07",
+    "name": "3-page hospital discharge summary PDF",
+    "file": "07_three_page_discharge_summary.pdf",
+    "kind": "pdf",
+    "expectedPages": 3,
+    "expectedMedicines": [
+      "Aspirin",
+      "Clopidogrel",
+      "Atorvastatin",
+      "Metformin",
+      "Pantoprazole"
+    ]
+  },
+  {
+    "id": "case-08",
+    "name": "Mixed printed + handwritten document",
+    "file": "08_mixed_printed_handwritten.png",
+    "kind": "image",
+    "expectedMedicines": [
+      "Amoxicillin",
+      "Paracetamol",
+      "Ambroxol"
+    ]
+  },
+  {
+    "id": "case-09",
+    "name": "Typed prescription text",
+    "file": "09_typed_prescription.txt",
+    "kind": "text",
+    "expectedMedicines": [
+      "Amlodipine",
+      "Metformin",
+      "Vitamin D3"
+    ],
+    "expectedAllergies": [
+      "Penicillin"
+    ]
+  },
+  {
+    "id": "case-10",
+    "name": "Prescription with missing dosage details",
+    "file": "10_missing_dosage.png",
+    "kind": "image",
+    "expectedMedicines": [
+      "Pantoprazole",
+      "Ibuprofen",
+      "Domperidone"
+    ],
+    "expectMissingDosageAlerts": true
+  }
+]
